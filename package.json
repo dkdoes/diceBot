@@ -1,0 +1,23 @@
+{
+  "name": "dice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkdoes/diceBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkdoes/diceBot/issues"
+  },
+  "dependencies":{
+    "eris": "^0.5.2"
+  },
+  "homepage": "https://github.com/dkdoes/diceBot#readme",
+  "description": ""
+}
